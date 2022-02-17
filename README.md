@@ -5,4 +5,4 @@ Data usage of 100 customers for one sample day of their Internet usage is provid
 
 ## List of files and folders:
 
-1. **Telecommunication data**: a script (sport_activities_time_series.Rmd) analyses different aspects of internet usage of the 100 customers, taking into account their location and demographics.
+1. **Telecommunication data**: a script (Telco_data.sql) analyses different aspects of internet usage of the 100 customers, taking into account their location and demographics.
